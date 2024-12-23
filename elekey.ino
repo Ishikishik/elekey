@@ -10,6 +10,7 @@ void loop() {                    //2秒ごとに、点滅を10回繰り返し、
 digitalWrite(PIN5,HIGH);
 delay(500);
 digitalWrite(PIN5,LOW);
+delay(500);
 
 
 }
