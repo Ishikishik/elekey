@@ -29,7 +29,7 @@ void loop() {
     digitalWrite(4,LOW);
     delay(sp);
   }
-  if( longp == LOW && shortp == LOW ){               //長点の処理  
+  if( longp == LOW && shortp == LOW ){               //長短点の処理  
     digitalWrite(4,HIGH);
     delay(sp);
     digitalWrite(4,LOW);
