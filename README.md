@@ -1,2 +1,7 @@
-### 3dプリンターとATtinyを用いたエレキー
-[![エレキー](https://github.com/user-attachments/assets/98a29b47-0a8c-4e48-9c59-fc7ebcd20398)](https://www.youtube.com/watch?v=czMY52Wmcog)
+### ATTINY13Aを使ったエレキー
+
+1. 3dプリンターで筐体を印刷する
+2. 回路を作る
+3. attinyに書き込む
+### 完成図
+[!['エレキー']('a')]('https://www.youtube.com/watch?v=czMY52Wmcog')
